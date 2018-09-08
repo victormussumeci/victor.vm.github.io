@@ -1,0 +1,123 @@
+html{
+	background-color:#8b9aa7;
+}
+	
+
+.body{
+	background-color:#8b9aa7;
+	background-size: cover;
+	
+
+
+}
+
+
+
+.cabeçalho h1{
+ width:250px;
+ margin:10px auto;
+ padding-left: 1000px;  
+font-size: 20px;
+font-family: arial;
+margin-top: -4px;
+
+}
+.cabeçalho ul li{
+	display: inline;
+	
+}
+.cabeçalho ul li a{
+	width:50px;
+	margin:10px auto; 
+	padding-left: 50px;
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+	font-family: arial;
+
+} .sobre_mim{
+	padding-left: 20px;
+
+}
+
+.sobre_mim img{
+	width:600;
+	margin: 0 auto;
+	padding-left: 150px;
+
+}
+.sobre_mim p{
+	width:800;
+	margin: 0px auto;
+	padding-left: 450px;
+	margin-top: -220px;
+
+}
+.preferencias h2{
+	padding-left: 20px;
+
+
+}
+.preferencias ul li{
+	display: inline;
+}
+.preferencias  ul li i{
+	font-size: 58px;
+	word-spacing: 0px;
+	width:100px;
+	margin:10px auto; 
+	padding-left: 50px;
+	margin-left: -10px;
+
+}.fileira2  ul li i{
+font-size: 58px;
+	word-spacing: 10px;
+	width:150px;
+	margin:10px auto; 
+	padding-left: 40px;
+
+}
+.
+.contatos dl dt dd {
+	display:inline;
+
+}
+.contatos h2{
+  padding-left: 25px;
+
+
+}
+.contatos dl dt dd{
+
+width:150px;
+	margin:10px auto; 
+	padding-left: 40px;
+
+}
+.redes_sociais ul li{
+
+	display:inline;
+
+}
+.redes_sociais ul li a{
+  text-decoration: none;
+
+}
+.redes_sociais ul li a i{
+ font-size: 48px;
+text-decoration: none;
+
+
+}.redes_sociais h2{
+padding-left: 25px
+
+}
+
+.redes_sociais ul li a i{
+	width:50px;
+	margin:0 auto;
+	padding-left: 250px;
+	word-spacing: 10px;
+	
+
+}
